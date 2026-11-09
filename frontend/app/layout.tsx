@@ -1,3 +1,9 @@
+/*
+ * Class Name: RootLayout
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import type { Metadata } from 'next';
 import './globals.css';
 

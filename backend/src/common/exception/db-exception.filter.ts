@@ -1,3 +1,9 @@
+/*
+ * Class Name: DbExceptionFilter
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import { ArgumentsHost, Catch, ExceptionFilter } from '@nestjs/common';
 import { QueryFailedError } from 'typeorm';
 

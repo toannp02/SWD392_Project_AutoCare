@@ -1,3 +1,9 @@
+/*
+ * Class Name: RegisterPage
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 'use client';
 import { FormEvent, useState } from 'react';
 import Link from 'next/link';

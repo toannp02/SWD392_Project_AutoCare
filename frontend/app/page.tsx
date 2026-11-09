@@ -1,3 +1,9 @@
+/*
+ * Class Name: Home
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 'use client';
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';

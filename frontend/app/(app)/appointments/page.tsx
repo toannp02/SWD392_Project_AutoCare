@@ -1,3 +1,9 @@
+/*
+ * Class Name: AppointmentsPage
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 'use client';
 import { useEffect, useState } from 'react';
 import Link from 'next/link';

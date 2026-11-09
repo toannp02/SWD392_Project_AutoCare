@@ -1,3 +1,9 @@
+/*
+ * Class Name: AppointmentService
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import { BadRequestException, ConflictException, ForbiddenException, Injectable, NotFoundException } from '@nestjs/common';
 import { DataSource } from 'typeorm';
 import { AuthUser, assertSameBranch } from '../../common/security/security';

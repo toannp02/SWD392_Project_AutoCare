@@ -1,3 +1,9 @@
+/*
+ * Class Name: RegisterDto
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import { Transform, Type } from 'class-transformer';
 import {
   ArrayMinSize, ArrayUnique, IsArray, IsEmail, IsIn, IsInt, IsNotEmpty, IsOptional, IsString, Matches, Max, MaxLength, Min, MinLength,

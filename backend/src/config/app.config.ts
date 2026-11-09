@@ -1,3 +1,9 @@
+/*
+ * Class Name: AppConfig
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import 'dotenv/config';
 
 export const config = {

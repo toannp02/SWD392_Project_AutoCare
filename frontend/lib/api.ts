@@ -1,3 +1,9 @@
+/*
+ * Class Name: API_URL
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 'use client';
 
 export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4001/api';

@@ -1,3 +1,9 @@
+/*
+ * Class Name: ROLES_KEY
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import {
   CanActivate, ExecutionContext, ForbiddenException, Injectable, SetMetadata, UnauthorizedException, createParamDecorator,
 } from '@nestjs/common';

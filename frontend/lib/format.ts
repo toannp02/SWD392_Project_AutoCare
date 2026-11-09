@@ -1,3 +1,9 @@
+/*
+ * Class Name: STATUS_LABEL
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 export const STATUS_LABEL: Record<string, string> = {
   // appointments
   PENDING: 'Chờ xác nhận', CONFIRMED: 'Đã xác nhận', REJECTED: 'Bị từ chối', CHECKED_IN: 'Đã nhận xe', IN_SERVICE: 'Đang phục vụ',

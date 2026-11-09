@@ -1,3 +1,9 @@
+/*
+ * Class Name: NotificationService
+ * Version: 2026-11-09
+ * Copyright notice: Nguyen Phu Toan - He191566
+ */
+
 import { Injectable } from '@nestjs/common';
 import { EntityManager } from 'typeorm';
 import { AuditLog, Notification } from '../../model/entities';
